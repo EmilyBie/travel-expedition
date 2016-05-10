@@ -6,7 +6,11 @@ Rails.application.routes.draw do
   get '/login' => 'cards#login'
   #new card page
   get '/new' => 'cards#new'
+
+  get '/board' => 'cards#board'
+
   #new card form creationaw
   post '/cards' => 'cards#create'
+
 
 end

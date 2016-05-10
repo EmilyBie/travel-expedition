@@ -4,15 +4,20 @@ class CardsController < ApplicationController
   end
 
   def signup
-    
+
   end
 
   def login
-    
+
   end
 
   def new
-    
+
+  end
+
+
+  def board
+    @cards = Card.all
   end
 
   def create
@@ -27,8 +32,8 @@ class CardsController < ApplicationController
 
     redirect_to '/'
 
-    else 
-    
+    else
+
     redirect_to '/new'
 
     end
