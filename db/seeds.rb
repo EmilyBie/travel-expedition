@@ -296,30 +296,32 @@ CountryCard.create(country_id:74,card_id:7)
 
 Card.create(title:"Creepy statue festival", user_id:1, image:"http://i.imgbox.com/xOkj6zEj.jpg", source:"http://www.travelmag.com/");
 CardTag.create(card_id: 8, tag_id:4);
-CardTag.create(card_id: 8, tag_id:5);
 CountryCard.create(country_id:210,card_id:8)
 
+Card.create(title:"Join in prayer with monks", user_id:1, image:"http://i.imgbox.com/qstdkzQF.jpg", source:"http://i.imgbox.com/qstdkzQF.jpg");
+CardTag.create(card_id: 9, tag_id:4);
+CardTag.create(card_id: 9, tag_id:8);
+CountryCard.create(country_id:210,card_id:9)
 
+Card.create(title:"The biggest buddah ever", user_id:1, image:"http://i.imgbox.com/xOkj6zEj.jpg", source:"http://i.imgbox.com/Bovuaz8A.jpg");
+CardTag.create(card_id: 10, tag_id:4);
+CardTag.create(card_id: 10, tag_id:8);
+CountryCard.create(country_id:210,card_id:10)
 
+Card.create(title:"Volunteer planting mud trees", user_id:1, image:"http://i.imgbox.com/xrCvACMg.jpg", source:"http://www.travelmag.com/");
+CardTag.create(card_id: 11, tag_id:4);
+CardTag.create(card_id: 11, tag_id:7);
+CountryCard.create(country_id:210,card_id:11)
 
-#China 44
+Card.create(title:"Banana leaf food", user_id:1, image:"http://i.imgbox.com/0ndGAelm.jpg", source:"http://www.travelmag.com/");
+CardTag.create(card_id: 12, tag_id:1);
+CountryCard.create(country_id:210,card_id:12)
 
-# Malaysia 130
+Card.create(title:"Floating market tasting tour", user_id:1, image:"http://i.imgbox.com/5ZeJj5Yf.jpg", source:"http://www.travelmag.com/");
+CardTag.create(card_id: 13, tag_id:1);
+CardTag.create(card_id: 13, tag_id:6);
+CountryCard.create(country_id:210,card_id:13)
 
-# http://i.imgbox.com/xOkj6zEj.jpg
-# http://i.imgbox.com/qstdkzQF.jpg
-# http://i.imgbox.com/Bovuaz8A.jpg
-# http://i.imgbox.com/xrCvACMg.jpg
-# http://i.imgbox.com/0ndGAelm.jpg
-# http://i.imgbox.com/5ZeJj5Yf.jpg
-# http://i.imgbox.com/3ZFWIUQo.jpg
-
-
-# Tag.create(name:"Food");
-# Tag.create(name:"Accommodation");
-# Tag.create(name:"Transport");
-# Tag.create(name:"Culture");
-# Tag.create(name:"Entertainment");
-# Tag.create(name:"Shopping");
-# Tag.create(name:"Nature");
-# Tag.create(name:"Free");
+Card.create(title:"Big fish hunting tour", user_id:1, image:"http://i.imgbox.com/3ZFWIUQo.jpg", source:"http://www.travelmag.com/");
+CardTag.create(card_id: 14, tag_id:5);
+CountryCard.create(country_id:210,card_id:14)
