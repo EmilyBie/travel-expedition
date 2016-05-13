@@ -304,19 +304,19 @@ CardTag.create(card_id: 9, tag_id:8);
 CountryCard.create(country_id:210,card_id:9)
 
 Card.create(title:"Volunteer planting mud trees", user_id:1, image:"http://i.imgbox.com/xrCvACMg.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 11, tag_id:4);
-CardTag.create(card_id: 11, tag_id:7);
-CountryCard.create(country_id:210,card_id:11)
+CardTag.create(card_id: 10, tag_id:4);
+CardTag.create(card_id: 10, tag_id:7);
+CountryCard.create(country_id:210,card_id:10)
 
 Card.create(title:"Banana leaf food", user_id:1, image:"http://i.imgbox.com/0ndGAelm.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 12, tag_id:1);
-CountryCard.create(country_id:210,card_id:12)
+CardTag.create(card_id: 11, tag_id:1);
+CountryCard.create(country_id:210,card_id:11)
 
 Card.create(title:"Floating market tasting tour", user_id:1, image:"http://i.imgbox.com/5ZeJj5Yf.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 13, tag_id:1);
-CardTag.create(card_id: 13, tag_id:6);
-CountryCard.create(country_id:210,card_id:13)
+CardTag.create(card_id: 12, tag_id:1);
+CardTag.create(card_id: 12, tag_id:6);
+CountryCard.create(country_id:210,card_id:12)
 
 Card.create(title:"Big fish hunting tour", user_id:1, image:"http://i.imgbox.com/3ZFWIUQo.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 14, tag_id:5);
-CountryCard.create(country_id:210,card_id:14)
+CardTag.create(card_id: 13, tag_id:5);
+CountryCard.create(country_id:210,card_id:13)
