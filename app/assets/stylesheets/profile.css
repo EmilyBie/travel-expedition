@@ -15,22 +15,22 @@
     margin: auto;
 }
 
-.profile_image {
+/*.profile_image {
   height: 100px;
   width: 100px;
   border:3px solid black;
-  border-radius: 100px;
-  /*position: absolute;
-  left:50px;
-  top:120px;*/
-  background-color: white
+/*  border-radius: 100px;
+*/
 
-}
-
-.profile_image img{
+.profile_image {
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  border:2px solid black;
+}
+
+body > div.wrapper > div.profile-content.section-nude > div > div.row.owner > div > div.avatar > a > div {
+  background-color: black;
 }
 
 .card-container {
