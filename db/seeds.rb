@@ -303,11 +303,6 @@ CardTag.create(card_id: 9, tag_id:4);
 CardTag.create(card_id: 9, tag_id:8);
 CountryCard.create(country_id:210,card_id:9)
 
-Card.create(title:"The biggest buddah ever", user_id:1, image:"http://i.imgbox.com/xOkj6zEj.jpg", source:"http://i.imgbox.com/Bovuaz8A.jpg");
-CardTag.create(card_id: 10, tag_id:4);
-CardTag.create(card_id: 10, tag_id:8);
-CountryCard.create(country_id:210,card_id:10)
-
 Card.create(title:"Volunteer planting mud trees", user_id:1, image:"http://i.imgbox.com/xrCvACMg.jpg", source:"http://www.travelmag.com/");
 CardTag.create(card_id: 11, tag_id:4);
 CardTag.create(card_id: 11, tag_id:7);
