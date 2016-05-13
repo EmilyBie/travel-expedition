@@ -265,35 +265,61 @@ CardTag.create(card_id: 1, tag_id:5);
 CountryCard.create(country_id:74,card_id:1)
 
 Card.create(title:"Secret Tower Tunnel Tour", user_id:1, image:"http://i.imgbox.com/F54sHbC3.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 1, tag_id:4);
-CardTag.create(card_id: 1, tag_id:5);
-CountryCard.create(country_id:74,card_id:1)
+CardTag.create(card_id: 2, tag_id:4);
+CardTag.create(card_id: 2, tag_id:5);
+CountryCard.create(country_id:74,card_id:2)
 
 Card.create(title:"The Castle of Count Yohan", user_id:1, image:"http://i.imgbox.com/ecXdyqd0.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 1, tag_id:4);
-CardTag.create(card_id: 1, tag_id:5);
-CountryCard.create(country_id:74,card_id:1)
+CardTag.create(card_id: 3, tag_id:4);
+CardTag.create(card_id: 3, tag_id:8);
+CountryCard.create(country_id:74,card_id:3)
 
-Card.create(title:"A secret herb magic show", user_id:1, image:"http://i.imgbox.com/wGvsT9pG.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 1, tag_id:4);
-CardTag.create(card_id: 1, tag_id:5);
-CountryCard.create(country_id:74,card_id:1)
+Card.create(title:"A secret herb magic shop", user_id:1, image:"http://i.imgbox.com/wGvsT9pG.jpg", source:"http://www.travelmag.com/");
+CardTag.create(card_id: 4, tag_id:6);
+CountryCard.create(country_id:74,card_id:4)
 
 Card.create(title:"Market for just cheese", user_id:1, image:"http://i.imgbox.com/chb9SkDd.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 1, tag_id:4);
-CardTag.create(card_id: 1, tag_id:5);
-CountryCard.create(country_id:74,card_id:1)
+CardTag.create(card_id: 5, tag_id:1);
+CardTag.create(card_id: 5, tag_id:6);
+CountryCard.create(country_id:74,card_id:5)
 
 Card.create(title:"Deadliest Art Expo Ever", user_id:1, image:"http://i.imgbox.com/yY7WMqnK.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 1, tag_id:4);
-CardTag.create(card_id: 1, tag_id:5);
-CountryCard.create(country_id:74,card_id:1)
+CardTag.create(card_id: 6, tag_id:5);
+CardTag.create(card_id: 6, tag_id:8);
+CountryCard.create(country_id:74,card_id:6)
 
 Card.create(title:"Gothic Drawing Class", user_id:1, image:"http://i.imgbox.com/uNApYN2V.jpg", source:"http://www.travelmag.com/");
-CardTag.create(card_id: 1, tag_id:4);
-CardTag.create(card_id: 1, tag_id:5);
-CountryCard.create(country_id:74,card_id:1)
+CardTag.create(card_id: 7, tag_id:5);
+CountryCard.create(country_id:74,card_id:7)
+
+# Thailand 210
+
+Card.create(title:"Creepy statue festival", user_id:1, image:"http://i.imgbox.com/xOkj6zEj.jpg", source:"http://www.travelmag.com/");
+CardTag.create(card_id: 8, tag_id:4);
+CardTag.create(card_id: 8, tag_id:5);
+CountryCard.create(country_id:210,card_id:8)
 
 
 
 
+#China 44
+
+# Malaysia 130
+
+# http://i.imgbox.com/xOkj6zEj.jpg
+# http://i.imgbox.com/qstdkzQF.jpg
+# http://i.imgbox.com/Bovuaz8A.jpg
+# http://i.imgbox.com/xrCvACMg.jpg
+# http://i.imgbox.com/0ndGAelm.jpg
+# http://i.imgbox.com/5ZeJj5Yf.jpg
+# http://i.imgbox.com/3ZFWIUQo.jpg
+
+
+# Tag.create(name:"Food");
+# Tag.create(name:"Accommodation");
+# Tag.create(name:"Transport");
+# Tag.create(name:"Culture");
+# Tag.create(name:"Entertainment");
+# Tag.create(name:"Shopping");
+# Tag.create(name:"Nature");
+# Tag.create(name:"Free");
