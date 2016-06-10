@@ -18,12 +18,12 @@ PostgreSQL
 ## Apis
 
 - Emergency Number API: 
-    API url: http://emergencynumberapi.com/api/country/{countryCode}
-    Method: HTTParty.get
+   - API url: http://emergencynumberapi.com/api/country/{countryCode}
+   - Method: HTTParty.get
 
 - Currency Exchange API: 
-    API url: http://api.fixer.io/latest
-    Method: Ajax
+    - API url: http://api.fixer.io/latest
+    - Method: Ajax
 
 ## Challenges
 
