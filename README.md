@@ -1,5 +1,6 @@
 # Travel Expedition
 
+<img src="http://i.imgur.com/sn3nSuz.jpg" width=300>
 ## Techical Requirements
 
 Make a single page application using asynchronous loading, utalising two APIs, has standard user profile flow, and users have the ability to add cards to categories in a bookmarking-like functionality.
